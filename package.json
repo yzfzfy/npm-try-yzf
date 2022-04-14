@@ -1,0 +1,12 @@
+{
+    "name": "npm-try-yzf",
+    "version": "1.0.3",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "yzfzfy <17803559102@163.com> my website example",
+    "license": "ISC"
+}
